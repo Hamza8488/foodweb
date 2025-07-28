@@ -559,6 +559,10 @@ header .icons #menu-bars{
     color: var(--light-color);
 }
 
+.email-link {
+  text-transform: lowercase;
+}
+
 .footer .box-container .box a:hover{
     color: var(--green);
     text-decoration: underline;
